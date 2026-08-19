@@ -8,6 +8,8 @@ This application provides a solution to generate seeds using the dice rolls or c
 
 Usage is pretty straightforward. Turn on the device, select the size of the seed phrase (12 or 24 words), select the method (dice rolls or coin flips), and insert each dice/coin one by one. It will take 124/248 dice rolls/coin flips to generate a seed phrase. 
 
+![image](https://snipboard.io/H8rk42.jpg)
+
 ## Troubleshooting
 
 - No official support is offered. In any case feel free to create an issue and I'll have a look.
